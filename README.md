@@ -24,3 +24,8 @@
 ### Add a Product by Admin
 ![Screenshot (56)](https://user-images.githubusercontent.com/59695910/117263760-3abd8080-ae70-11eb-9c4c-9407aa072c0c.png)
 
+
+# To Run the project
+1) Clone the repository.
+2) Add .env in PROSHOP folder with PORT=5000, MONGO_URI= your mongodb URL, JWT_SECRET=Secret for JWT, PAYPAL_CLIENT_ID= your PayPal client Id
+3) In terminal inside PROSHOP folder type the command, npm run dev. It will run the backend and the frontend  
